@@ -168,6 +168,12 @@ Our **Free Fire ID Check Tool** is an advanced web utility that retrieves a play
 Our Free Fire ID Check Tool empowers gamers with accurate, real‑time data so every decision is backed by comprehensive insights. Whether for personal improvement, team building, or competitive edge, this tool delivers everything you need in one place.
 
 ---
+## Developer API
+
+If you’re a developer, you can integrate Free Fire account data into your own apps or services by using our **Developer API**. It provides secure, on‑demand access to all the same real‑time endpoints powering this tool.
+
+🔗 **Register & get your API key:**  
+https://www.hlgamingofficial.com/p/developers.html
 
 ## License
 
