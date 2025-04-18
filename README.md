@@ -56,9 +56,12 @@ Knowing every detail about a Free Fire player’s profile can be the edge you ne
 Original article:  
 🔗 [Free Fire ID Check Tool – Get Player Info via UID](https://www.hlgamingofficial.com/2025/04/free-fire-id-check-tool-get-player-info.html)
 
-![Free Fire ID Check Tool – Get Player Info via UID](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEElZkDL64uMxyRqMEIGrKOmHEOmBdaMPq5fTsIJ3lP0DyIIpS8E_C7eIfhRc-WCL39rQR6SpXSHQsv2w4P_N1MCTsTeuRh4ey_M2yALzT1GbfZ8LLlsyILz76aJ11PLzzlkkp79SRLipkmNLXwCi7QylZArET262zg9UJIkYZgRAqdwd6b-LI8as0nE4/s640-h358/1744810197938.png)
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEElZkDL64uMxyRqMEIGrKOmHEOmBdaMPq5fTsIJ3lP0DyIIpS8E_C7eIfhRc-WCL39rQR6SpXSHQsv2w4P_N1MCTsTeuRh4ey_M2yALzT1GbfZ8LLlsyILz76aJ11PLzzlkkp79SRLipkmNLXwCi7QylZArET262zg9UJIkYZgRAqdwd6b-LI8as0nE4/s640-h358/1744810197938.png" width="100%" alt="Free Fire ID Check Tool – Get Player Info via UID" />
+</p>
 
 ---
+
 
 ## What Is the Free Fire ID Check Tool?
 
